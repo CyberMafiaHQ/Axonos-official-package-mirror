@@ -3,7 +3,14 @@ Hash: SHA512
 
 Suite: bookworm
 Codename: bookworm
-Date: Tue, 15 Apr 2025 16:55:50 +0000
+Architectures: armhf arm64
+Codename: bookworm
+Components: main
+Date: Tue, 15 Apr 2025 17:05:31 +0000
+Description: Axonos APT Repository
+Label: Axonos Repo
+Origin: Axonos
+Suite: bookworm
 MD5Sum:
  c66a78d0c9e712e4030c392fb9d484b2              380 main/binary-arm64/Packages.gz
  c66a78d0c9e712e4030c392fb9d484b2              380 main/binary-armhf/Packages.gz
@@ -18,17 +25,17 @@ SHA512:
  7ed4443cdaec9d4e7b08eb828ceccac3021f8a8ee0dbfb83f5487344dc4646bed04723a0c97372bdff41ea6a1994b6fa96e1f5e9b1797ec88e94c2e6b9816ab9              380 main/binary-armhf/Packages.gz
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEECBCBbtypSJxm35XmN4f5BgVcR6QFAmf+j5YACgkQN4f5BgVc
-R6SwlRAAvDd0JFF9n6tBOfwXfuE0V/1yWQT8Yjn481ivWB5da9YUcNNHMY3Z7sb2
-JCJnDmOEL601yJRLfZyVc/yg+Y94oO4WRAV1kufz1Tx5XfHBCvHsOnJr9mcLV5Zt
-5vM9JKQhof9p2e+6IP+YM9FtTbJpbs9vHoXgd9ae+XY/Of6QAQ4/zCF2wJVTPMEV
-4aau/gzVUytEZkBvnJkE9SBlMz5jaMzs/tfzN5u9IgEVhWX8q93rbk8HM9ceriMt
-3PaZakrZdEqPwtJWqcrTazt9rh0Tur+qN+RfozbMPv8nsAnFSzNOrHsT1bhWUOgn
-wFiQGnvUIEFxE2ZjC7cCTxpugNZHGnlnXw0j1CRsl6srdm7qs987bPElpoPONTMe
-jKKS97uU2C/bwn2iRVXUs74z0iraWfMnxNCT9cwnvNHLxut+J5g2PAT+lVeOsCdQ
-0vcvM8iw0f8pAGCtpd7ceOT+qQEO29OT0zrx86fVvtM9Wy3U13GuyPd1kGvM/HDU
-aV5R8HD7O/c0/kNr20Hc89ebHfKAcMMUuwszhwiqDfTszpyR/lRZ5/B5vHntcVbJ
-p2mje6FQYHkXB/CKC1h06gU3NVK++y1OLQJnSp/JD9Fqfq6SlUcdFo90kUbqxCkb
-3TU//b87+afUZeOiMeYXj9B84h41e6NMQuAzx0R8en8uZQOfods=
-=8vlJ
+iQIzBAEBCgAdFiEECBCBbtypSJxm35XmN4f5BgVcR6QFAmf+kdsACgkQN4f5BgVc
+R6QmPg//bdORJ8Cmbg4/nF/apnrUqLs77Ct/o5FrCwiUkFuD5tWfW4puqPb2ylR8
+yJpJ+la4eWNcwkIkWSeQCJVy5ENQctETpHksrLc1rvmOB9Pj6HnywiA4Hcbh3tdd
+IBiWUcZNmvowuXbix/tJvmH+dMXnbKU1vgnYJHvTx1Wmt/CWV5KqlnNOV0JX/STr
+tMziBl8h3a1kf/Gkq8fWCVPHQ3dDeZ+pQQneRzZC1CLuIPJ5XZMK+iQ6vGUVdLXa
+4xo+02p3Hbh11JTuPDQb+OuAaEncMXAk0VKF272zMwiS66pWsXYTeJsxDWudaza7
+N3/muzpAAfZX7BtUIkukXfCC7Q10YGVdjajppy/vygSvdkj+g9QiVyLbrvsr8bNh
+WyhwoIUMMWRwaE1lZE+OYPWEO81E3TI4YFhAyTbnO3sa8rk+xp9hlm1a1PUfiZU3
+vzMULOgF7/W65+on0Pq8PtbM8CUF4KSd9kxsr5C9FB1y/bBRAXLGFmZhhT2461p5
+WVvL8WD0Aq1NA251EYArkI1794Sz268KZLFUgDyx67cdwC6N5UEA7OIPpdkYlzI3
+p+ZOBEIW5vJO3zmO+VgWyXV5f77DNy6EfqX9gnpzeadcx/73x6iAEmL1Pev7H/PB
+bgU28R7Q/R8fJGanfeydOoqa9boocUv+MZWh10f1EDqnN7OXweE=
+=ItV8
 -----END PGP SIGNATURE-----
