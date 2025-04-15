@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Axonos Mirror</title>
+  <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@600&display=swap" rel="stylesheet">
+  <style>
+    body {
+      margin: 0;
+      padding: 0;
+      background: radial-gradient(circle at center, #111 0%, #000 100%);
+      color: #fff;
+      font-family: 'Orbitron', sans-serif;
+      height: 100vh;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      overflow: hidden;
+    }
+
+    img {
+      width: 150px;
+      animation: float 4s ease-in-out infinite;
+      filter: drop-shadow(0 0 10px #9b59b6);
+    }
+
+    h1 {
+      font-size: 3rem;
+      margin-top: 30px;
+      background: linear-gradient(90deg, #8e44ad, #3498db);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      text-shadow: 0 0 20px rgba(142, 68, 173, 0.4);
+      animation: pulse 2s infinite;
+    }
+
+    @keyframes float {
+      0%, 100% {
+        transform: translateY(0);
+      }
+      50% {
+        transform: translateY(-10px);
+      }
+    }
+
+    @keyframes pulse {
+      0%, 100% {
+        text-shadow: 0 0 20px #8e44ad;
+      }
+      50% {
+        text-shadow: 0 0 40px #3498db;
+      }
+    }
+  </style>
+</head>
+<body>
+  <img src=".assest/logo.png" alt="Axonos Logo" />
+  <h1>Axonos official package mirror</h1>
+</body>
+</html>

@@ -1,0 +1,17 @@
+Date: Tue, 15 Apr 2025 13:07:22 +0000
+MD5Sum:
+ 7fe7a4eecbebf24718b01e0bbafd0744               38 Release
+ c66a78d0c9e712e4030c392fb9d484b2              380 main/binary-arm64/Packages.gz
+ c66a78d0c9e712e4030c392fb9d484b2              380 main/binary-armhf/Packages.gz
+SHA1:
+ d5cb35f147e559d9d047c067b79423af026ecccd               38 Release
+ 62c7de4ca1f8b8a0a9af6a9a3c6845dfca44192b              380 main/binary-arm64/Packages.gz
+ 62c7de4ca1f8b8a0a9af6a9a3c6845dfca44192b              380 main/binary-armhf/Packages.gz
+SHA256:
+ 4b12a4d9e69660614188d9170954bcfeb7267eac5b047ffd4a4cdee00e0f9fb1               38 Release
+ ab17e2d9c666c8844da4d31e9830951245ffc4aa09030263bfd3701324386394              380 main/binary-arm64/Packages.gz
+ ab17e2d9c666c8844da4d31e9830951245ffc4aa09030263bfd3701324386394              380 main/binary-armhf/Packages.gz
+SHA512:
+ 65b899608c121ec750f905bbfddb34be5c1fced74fb874621fa3642ed74d6db81122358bbb445da071f548a4492ec5f4824429ffb2e1827180c58dfa19f07359               38 Release
+ 7ed4443cdaec9d4e7b08eb828ceccac3021f8a8ee0dbfb83f5487344dc4646bed04723a0c97372bdff41ea6a1994b6fa96e1f5e9b1797ec88e94c2e6b9816ab9              380 main/binary-arm64/Packages.gz
+ 7ed4443cdaec9d4e7b08eb828ceccac3021f8a8ee0dbfb83f5487344dc4646bed04723a0c97372bdff41ea6a1994b6fa96e1f5e9b1797ec88e94c2e6b9816ab9              380 main/binary-armhf/Packages.gz
