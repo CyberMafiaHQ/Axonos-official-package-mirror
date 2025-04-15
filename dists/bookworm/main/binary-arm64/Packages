@@ -9,6 +9,17 @@ SHA1: b40df98cae074d22b04f40c4d3a49b84f19c129e
 SHA256: 5356b04bed270a668dc211a4ae792aba7e441edde22bcb083680c7f01da1d693
 Description: Display detailed system info (Axonos style)
 
+Package: axonos-sysinfo
+Version: 1.1
+Architecture: all
+Maintainer: Axonos <zazmohammads@gmail.com>
+Filename: pool/axonos-sysinfo_1.1_all.deb
+Size: 1384
+MD5sum: a73e86c6a68d84fd76e84116c5f284c5
+SHA1: e03e47bafca755ecfd023802344a0f5ba5a92610
+SHA256: a349f512fbb58f44182b72884ca94d75bf2727bac3c4988610f58ecabea9854c
+Description: Display detailed system info (Axonos style)
+
 Package: myhello
 Version: 1.0
 Architecture: arm64
