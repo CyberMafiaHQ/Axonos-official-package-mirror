@@ -1,0 +1,11 @@
+Package: myhello
+Version: 1.0
+Architecture: arm64
+Maintainer: Axonos <zazmohammads@gmail.com>
+Filename: pool/myhello_1.0_arm64.deb
+Size: 780
+MD5sum: c09589fb63cd92a0bdafe029444f97d1
+SHA1: 0b0a47763a1f2881dd77298f867297fa9bf3a03b
+SHA256: 78d8905a6295c777981142b9f29318d7c6113c5b7145fe89f08b3d9e39f3572d
+Description: Simple Hello script from Axonos APT repo
+
