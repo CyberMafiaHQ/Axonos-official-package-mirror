@@ -1,3 +1,14 @@
+Package: axonos-sysinfo
+Version: 1.0
+Architecture: all
+Maintainer: Axonos <zazmohammads@gmail.com>
+Filename: pool/axonos-sysinfo_1.0_all.deb
+Size: 1028
+MD5sum: d70440882bf739678dc71762baf0734e
+SHA1: b40df98cae074d22b04f40c4d3a49b84f19c129e
+SHA256: 5356b04bed270a668dc211a4ae792aba7e441edde22bcb083680c7f01da1d693
+Description: Display detailed system info (Axonos style)
+
 Package: myhello
 Version: 1.0
 Architecture: arm64
